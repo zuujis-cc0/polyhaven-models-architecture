@@ -1,5 +1,20 @@
 {
- "assets": {},
+ "assets": {
+  "gate_latch_01": "bfe033e15d12c2513652457660c429e5ede95e1a",
+  "large_castle_door": "194bbdcfc45ec659005f36661f327a127a2e7a20",
+  "large_iron_gate": "93b045958194b830c41c9a16d3f3aa7a5cb8bced",
+  "modular_chainlink_fence": "a876696fcfd57a434e5d1dd68baa03e15475b97e",
+  "modular_factory_facade": "4716a794d840f5d4ebf75b1db1d8a8b7e8d57a61",
+  "modular_fire_escape": "e093c9b1a65b153f392b8c239fa2a411c432806d",
+  "modular_fort_01": "5ccbf62aeee96ea99cf0c2e29e4c8ed843ee7c44",
+  "modular_urban_apartments_facade": "1710ec01c24ef6193511942c08ec3c754f3eb8fb",
+  "modular_wooden_pier": "219aafe4dfbcc2ebac731ae205bebfd5837c6138",
+  "rollershutter_door": "4f4b3b132d12aa4253364b988714f8185ed45e19",
+  "rollershutter_window_01": "55133df3196203d6ddd5b3ef1a4225625ff3aab7",
+  "rollershutter_window_02": "97b51a0f6fdf27b52a7fda1eab44457391115806",
+  "rollershutter_window_03": "d4e12f03ad4069435217a853a8ec3aca021c4c91",
+  "stone_fire_pit": "db8f04edd02bcfd3bae277fe17f585be17f7c7d9"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
